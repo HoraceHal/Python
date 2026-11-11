@@ -1,2 +1,4 @@
 /no_use
 *.xlsx
+!testcase/*.xlsx
+!testcase/output/*.xlsx
